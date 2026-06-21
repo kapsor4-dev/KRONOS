@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml,https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_lite.xml.gz"
+﻿#EXTM3U url-tvg="http://epg.one/pp.xml.gz,https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_lite.xml.gz"
 #EXTINF:-1  tvg-id="405" tvg-logo="http://epg.one/img/405.png" group-title="01🌎ОБЩИЕ🌎" catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" catchup-days="3",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
